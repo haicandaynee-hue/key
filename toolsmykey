@@ -1,6 +1,5 @@
 {
   "ADMIN8386": {"expiry": "2027-03-23", "hwid": "﻿UUID-0E41CE4A-E78A-DB17-A9A2-047C16E70711"},
   "phuctest": {"expiry": "2026-03-29", "hwid": "UUID-032E02B4-0499-05AF-4306-770700080009"},
-  "quantest": {"expiry": "2026-03-27", "hwid": "MAIN-M80-GB013600360"}
-  "vandung365": {"expiry": "2027-03-27", "hwid": "MAIN-07E0522_N31E709172"}
+  "vandung365": {"expiry": "2027-03-23", "hwid": "UUID-032E02B4-0499-05AF-4306-770700080009"},
 }
